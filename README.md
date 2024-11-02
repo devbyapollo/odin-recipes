@@ -1,1 +1,1 @@
-# odin-recipes
+Hi I am ~~Ayotunde~~ pseudonym (Apollo) from Nigeria, I just recently started TOP program and I am excited to be here writing the description for my first TOP project which is html for recipes and I feel pretty confident in my ability thanks to Odin Community, it's wonderful, how much I was able to learn in a 2 weeks with no prior knowledge of web development, and now I am confidently manipulating this file from the comfort of a CLI, al thanks to ODIN PROJECTS and it's Amazing contributors that keeps the community going
